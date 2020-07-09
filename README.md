@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/dwardu89/dwardu89.svg)](http://hits.dwyl.com/dwardu89/dwardu89)
+
+
+- 🔭 I’m currently working on my own bare metal k8s cluster.
+- 🌱 I’m currently learning Kubernetes, Networking, Golang
+- 📫 How to reach me: www.linkedin.com/in/edward-vella
 
 <!--
 **dwardu89/dwardu89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
