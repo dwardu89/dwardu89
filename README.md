@@ -6,6 +6,11 @@
 - 🌱 I’m currently learning Kubernetes, Networking, Golang
 - 📫 How to reach me: www.linkedin.com/in/edward-vella
 
+<br>
+
+
+![Edward's github stats](https://github-readme-stats.vercel.app/api?username=dwardu89&show_icons=true&hide_border=true)
+
 <!--
 **dwardu89/dwardu89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
