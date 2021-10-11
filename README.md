@@ -1,9 +1,8 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/dwardu89/dwardu89.svg)](http://hits.dwyl.com/dwardu89/dwardu89)
 
 
 - 🔭 I’m currently working on my own bare metal k8s cluster.
-- 🌱 I’m currently learning Kubernetes, Networking, Golang
+- 🌱 I’m currently learning Kubernetes, React.js, Snowflake
 - 📫 How to reach me: www.linkedin.com/in/edward-vella
 
 <br>
